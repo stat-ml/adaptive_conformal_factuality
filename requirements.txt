@@ -1,0 +1,12 @@
+numpy==1.26.4
+scipy==1.17.0
+scikit-learn==1.8.0
+torch==2.9.1
+matplotlib==3.10.8
+joblib==1.5.3
+sentence-transformers==5.2.0
+huggingface-hub==0.36.0
+cvxpy==1.6.6
+conditionalconformal==0.0.5
+lm-polygraph==0.7.0
+pyarrow==22.0.0  # needed by lm-polygraph; newer versions require NumPy 2
